@@ -1,0 +1,15 @@
+{
+  "Author": "aRkker",
+  "Name": "World Map Enhancer",
+  "Punchline": "Right click to zoom out the big map",
+  "Description": "Simply zoom out by right clicking the world map, like God intended it",
+  "InternalName": "worldMapEnhancer",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "world",
+    "map",
+    "enhance",
+    "rightclick",
+    "zoom"
+  ]
+}
